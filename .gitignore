@@ -1,5 +1,4 @@
-*.iml
 /example-one.1.1.iml
 /out/
 /.idea/
-
+*.iml
